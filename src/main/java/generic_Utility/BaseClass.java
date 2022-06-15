@@ -22,6 +22,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass 
 {
+	//Base class created
 	public FileUtility flib= new FileUtility();
 	public WebDriverUtility wlib= new WebDriverUtility();
 	public WebDriver driver = null;
